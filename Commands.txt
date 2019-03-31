@@ -1,0 +1,2 @@
+git init - Create a new local repository
+git add - Add files to git repository
